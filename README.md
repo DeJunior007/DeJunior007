@@ -19,8 +19,4 @@
 
  <img align="center" alt="njs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   
-  <img align="center" alt="rjs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6134e522-1ce2-41fc-90e2-9b03cc9a35bc" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="efb010f4-7763-4446-ac69-48fd2fbd4630" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  <img align="center" alt="rjs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>__
