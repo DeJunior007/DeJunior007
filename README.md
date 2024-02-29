@@ -1,4 +1,4 @@
-### Hello World! Meu nome é Deilton Pedro 🖖
+### Olá Mundo! Meu nome é Deilton Pedro 🖖
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deilton-pedro-465b1b23a/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dilto.dev/)
@@ -18,3 +18,24 @@
  <img align="center" alt="njs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   
   <img align="center" alt="rjs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+  <img align="center" alt="nextjs" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+
+
+</div>
+
+## Estatísticas do GitHub
+
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DeJunior007&show_icons=true&theme=radical)](https://github.com/DeJunior007)
+
+## Contribuições
+
+Contribuições são sempre bem-vindas! Se você encontrar algum problema em algum dos meus projetos ou quiser contribuir de alguma forma, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+## Entre em Contato
+
+Se você tiver alguma pergunta ou quiser entrar em contato comigo, sinta-se à vontade para me enviar uma mensagem através do LinkedIn ou Instagram. Estou sempre interessado em conhecer novas pessoas e colaborar em projetos interessantes!
+
+## Agradecimentos
+
+Obrigado por visitar meu perfil do GitHub! Espero que você encontre algo interessante aqui. Se você gostou do que viu, não se esqueça de me seguir e dar uma estrela nos meus projetos! 😊
