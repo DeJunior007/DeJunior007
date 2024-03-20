@@ -28,13 +28,9 @@
 
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=DeJunior007&show_icons=true&theme=radical)](https://github.com/DeJunior007)
 
-## Contribuições
-
-Contribuições são sempre bem-vindas! Se você encontrar algum problema em algum dos meus projetos ou quiser contribuir de alguma forma, sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
 ## Entre em Contato
 
-Se você tiver alguma pergunta ou quiser entrar em contato comigo, sinta-se à vontade para me enviar uma mensagem através do LinkedIn ou Instagram. Estou sempre interessado em conhecer novas pessoas e colaborar em projetos interessantes!
+Se você tiver alguma pergunta ou quiser entrar em contato comigo, sinta-se à vontade para me enviar uma mensagem através do LinkedIn. Estou sempre interessado em conhecer novas pessoas e colaborar em projetos interessantes!
 
 ## Agradecimentos
 
